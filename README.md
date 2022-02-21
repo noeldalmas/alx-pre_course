@@ -1,1 +1,1 @@
-My first readme
+The entire directory is git gym session.
